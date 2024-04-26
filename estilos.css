@@ -1,0 +1,220 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family:"Playfair Display", serif;
+    font-size: 20px;
+}
+
+header
+{
+    background-color: rgb(120, 120, 241);
+    display: inline-block;
+    border: 2px solid black;
+    justify-content: space-between;
+    align-items: center;
+    height: 100px;
+    padding: 3px 10%;
+}
+header .logo img 
+{
+    height: 100px;
+    width: auto;
+
+}
+header .linksnavegacion
+{
+    list-style: none;
+   
+  
+}
+header .linksnavegacion li
+{
+    display: inline-block;
+    padding: 0 30px;
+    border: 2px solid black;
+}
+header .linksnavegacion a
+{
+    font-size: 1000;
+    color: black;
+    text-decoration: none;
+
+}
+.protegemos 
+{
+      background-image:url(multimedia/imagen\ familia.jpg);
+      background-position: center center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      text-align:center;
+      vertical-align:sub;
+      padding: 200px;
+      font-family: "Playfair Display", serif;
+}
+.quienes
+{
+    background-color: rgb(245, 245, 200);
+    background-position: center center;
+    text-align: center;
+    padding: 100px;
+    font-family: "Playfair Display", serif;
+
+}
+.nuestro
+{
+    background-color: rgb(235, 187, 117);
+    background-position: center center;
+    text-align: center;
+    padding: 100px;
+    font-family: "Playfair Display", serif;
+}
+aside
+{
+    background-color: rgb(240, 174, 32);
+    background-position: center center;
+    text-align: center;
+    padding: 100px;
+    font-family: "Playfair Display", serif;
+
+}
+footer{
+    background-color: rgb(87, 139, 139);
+    background-position: center center;
+    text-align: center;
+    padding: 100px;
+}
+footer img
+{
+    height: 65px;
+    width: auto;
+
+}
+.ap
+{
+    background-image: url(multimedia/ap.jpg);
+      background-position: center center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      text-align:center;
+      vertical-align:sub;
+      padding: 200px;
+      font-family: "Playfair Display", serif;
+}
+.coberturasadicionalesap
+{
+    background-color: rgb(240, 174, 32);
+    background-position: center center;
+    text-align: center;
+    padding: 100px;
+    font-family: "Playfair Display", serif;
+}
+.coberturasadicionalesap li{
+    list-style: none;
+}
+
+.vida
+{
+      background-image: url(multimedia/vida.jpg);
+      background-position: center center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      text-align:center;
+      vertical-align:sub;
+      padding: 200px;
+      font-family: "Playfair Display", serif;
+}
+.personalizalo
+{
+    background-color: rgb(240, 174, 32);
+    background-position: center center;
+    text-align: center;
+    padding: 100px;
+    font-family: "Playfair Display", serif;
+    
+}
+.personalizalo li{
+    list-style: none;
+}
+section
+{
+    background-color: rgb(245, 245, 200);
+    background-position: center center;
+    text-align: center;
+    padding: 100px;
+    font-family: "Playfair Display", serif;
+    
+}
+section h3 
+{border: 3px solid black;
+height: 75px;
+ width:100% ;
+ text-align: center center;
+}
+
+
+section div
+{
+    border: 3px solid black;
+    display: inline-table;
+    height: 120px;
+    width: 30%;
+    background-color:rgb(243, 243, 230) ;
+    text-align: center center;
+}
+.retiro
+{
+    background-image: url(multimedia/retiro.jpg);
+      background-position: center center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      text-align:center;
+      vertical-align:sub;
+      padding: 200px;
+      font-family: "Playfair Display", serif;
+
+}
+.comofuncionaretiro
+{
+    background-color: rgb(245, 245, 200);
+    background-position: center center;
+    text-align: center;
+    padding: 100px;
+    font-family: "Playfair Display", serif;
+}
+.cobertura
+{
+    background-color: rgb(235, 187, 117);
+    background-position: center center;
+    text-align: center;
+    padding: 100px;
+    font-family: "Playfair Display", serif; 
+}
+.personaliza
+{
+    background-color: rgb(240, 174, 32);
+    background-position: center center;
+    text-align: center;
+    padding: 100px;
+    font-family: "Playfair Display", serif;
+    }
+.personaliza li
+{
+    list-style: none
+}
+
+.contacto
+{
+      background-image: url(multimedia/contacto.jpg);
+      background-position: center unset;
+      background-repeat: no-repeat;
+      background-size: cover;
+      text-align:center;
+      vertical-align:sub;
+      padding: 200px;
+      font-family: "Playfair Display", serif; 
+      
+}
+
