@@ -131,13 +131,21 @@ footer h5 a {
     padding: 30px;
 
 }
+.apLogo h2 {
+    font-size: 60px;
+    color: rgba(65, 53, 53, 0.694);
+    text-shadow: 0 0 10px rgb(91, 86, 224)
+
+}
 .coberturasAdicionalesAp h3 {
     font-size: 40px;
 }
 .coberturasAdicionalesAp li{
+    color: white;
     list-style: none;
     font-size: 20PX;
     padding: 8px;
+    text-shadow: 0 0 5px black;
 }
 
 .seguroDeVida
@@ -168,7 +176,7 @@ footer h5 a {
     background-color: rgb(245, 245, 200);
     font-size: 50px;
     text-align: center;
-    text-shadow: 0 0 5px black
+    
 }
 .coberturas h2{
         margin-bottom: 0;
@@ -214,7 +222,6 @@ footer h5 a {
 }
 .personalizalo h3 {
     font-size: 40px;
-    text-shadow: 0 0 5px black;
 }
 
 .personalizalo li{
@@ -226,54 +233,95 @@ footer h5 a {
 .retiro
 {
     background-image: url(multimedia/retiro.jpg);
-    background-position: center center;
-    background-repeat: no-repeat;
+    background-position: center;
     background-size: cover;
-    text-align:center;
-    vertical-align:sub;
-    padding: 200px;
-    font-family: "Playfair Display", serif;
-
+    height: 450px;
 }
-.comofuncionaretiro
+.comoFuncionaRetiro
 {
     background-color: rgb(245, 245, 200);
     background-position: center center;
     text-align: center;
-    padding: 100px;
-    font-family: "Playfair Display", serif;
+    padding: 25px;
 }
-.cobertura
+.comoFuncionaRetiro h2 {
+    font-size: 60px;
+    color: rgba(65, 53, 53, 0.694);
+    text-shadow: 0 0 10px rgb(91, 86, 224)
+}
+.comoFuncionaRetiro h3 {
+    font-size: 40px;
+}
+.comoFuncionaRetiro p {
+    font-size: 20px;
+}
+.coberturaFallecimiento
 {
     background-color: rgb(235, 187, 117);
     background-position: center center;
     text-align: center;
-    padding: 100px;
-    font-family: "Playfair Display", serif; 
+    padding: 50px; 
+}
+.cobFallecimiento h2{
+    font-size: 60px;
+    color: rgba(65, 53, 53, 0.694);
+    text-shadow: 0 0 10px rgb(91, 86, 224)
+}
+.coberturaFallecimiento h3 {
+    font-size: 40px;
+}
+.coberturaFallecimiento p{
+    font-size: 20px;
 }
 .personaliza
 {
     background-color: rgb(240, 174, 32);
     background-position: center center;
     text-align: center;
-    padding: 100px;
-    font-family: "Playfair Display", serif;
+    padding: 50px;
     }
+.personalizaLogo h2 {
+    font-size: 60px;
+    color: rgba(65, 53, 53, 0.694);
+    text-shadow: 0 0 10px rgb(91, 86, 224)
+}
+.personaliza h3 {
+    font-size: 40px;
+}
 .personaliza li
 {
-    list-style: none
+    color: white;
+    list-style: none;
+    font-size: 20PX;
+    padding: 8px;
+    text-shadow: 0 0 5px black;
 }
 
 .contacto
 {
-      background-image: url(multimedia/contacto.jpg);
-      background-position: center unset;
-      background-repeat: no-repeat;
-      background-size: cover;
-      text-align:center;
-      vertical-align:sub;
-      padding: 200px;
-      font-family: "Playfair Display", serif; 
-      
+    background-image: url(multimedia/contacto.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align:center;
+    vertical-align:sub;
+    padding: 200px 50px 200px 50px;    
 }
-
+.ingresoDatos {
+    background-color: rgba(255, 255, 255, 0.7);
+    width: 100%;
+    margin-top: 0px;
+    padding: 20px;
+    display: grid;
+}
+.ingresoDatos h2 {
+    font-size: 40px;
+    text-shadow: 0 0 3px white;
+}
+.ingresoDatos p {
+    font-size: 20px;
+    text-shadow: 0 0 3px white;
+}
+.ingresoDatos input {
+    padding: 10px 30px;
+}
