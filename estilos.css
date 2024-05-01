@@ -13,7 +13,7 @@
     font-size: 18px;
 }
 .protegemos {
-    background-image: url(./multimedia/imagen\ familia.jpg);
+    background-image: url(multimedia/imagen\ familia.jpg);
     background-position: center;
     background-size: cover;
     height: 450px;
@@ -94,7 +94,7 @@ footer h5 a {
     font-size: 70px;
 }
 .accidentes {
-    background-image: url(/multimedia/ap.jpg);
+    background-image: url(multimedia/ap.jpg);
     background-position: center;
     background-size: cover;
     height: 450px;
