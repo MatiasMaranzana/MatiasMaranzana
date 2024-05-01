@@ -142,11 +142,8 @@ footer h5 a {
 .seguroDeVida
 {
     background-image: url(/multimedia/vida.jpg);
-    background-position: center center;
-    background-repeat: no-repeat;
+    background-position: center;
     background-size: cover;
-    vertical-align:sub;
-    padding: 200px;
     height: 450px;
 }
 .seguroDeVidaTexto {
