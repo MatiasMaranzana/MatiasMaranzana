@@ -140,7 +140,7 @@ footer h5 a {
 }
 
 .seg {
-    background-image: url(/multimedia/mother-3389671_1280.jpg);
+    background-image: url(/multimedia/mother-3389671_1280.jpg) !important;
     background-position: center;
     background-size: cover;
     height: 450px;
