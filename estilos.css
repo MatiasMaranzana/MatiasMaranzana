@@ -113,6 +113,7 @@ footer h5 a {
 .accidentesTexto p {
     font-size: 20px;
 }
+
 .coberturasAdicionalesAp
 {
     background-color: rgb(240, 174, 32);
@@ -138,6 +139,16 @@ footer h5 a {
     text-shadow: 0 0 5px black;
 }
 
+.seguroDeVida
+{
+    background-image: url(multimedia/vida.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    vertical-align:sub;
+    padding: 200px;
+    height: 450px;
+}
 .seguroDeVidaTexto {
     background-color: rgba(253, 249, 249, 0.7);
     width: 100%;
